@@ -1,0 +1,7 @@
+{
+    "require": {
+        "coinbase/coinbase": "^2.5",
+        "ronmelkhior/coinpayments-ipn": "^1.0",
+        "embed/embed": "^3.3"
+    }
+}
